@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 9fba1582-40f5-e13f-b44d-9fc132fe86b0
 ---
@@ -41,7 +44,7 @@ Introduction
 {{< tdopen >}}
 Probability — Basic concepts
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 ([PDF - 1.3MB]({{< baseurl >}}/resources/mit2_852s10_probability))
 {{< tdclose >}}
 
@@ -80,7 +83,7 @@ Continuous random variables
 {{< tdopen >}}
 Transfer lines — Models and bounds
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 ([PDF - 1.9MB]({{< baseurl >}}/resources/mit2_852s10_transfer_lines))
 {{< tdclose >}}
 
@@ -119,7 +122,7 @@ Exponential and continuous lines
 {{< tdopen >}}
 Long lines
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 ([PDF]({{< baseurl >}}/resources/mit2_852s10_long_lines))
 {{< tdclose >}}
 
@@ -149,7 +152,7 @@ Long lines (cont.)
 {{< tdopen >}}
 "Deterministic" line — Long line optimization
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF - 1.2MB]({{< baseurl >}}/resources/mit2_852s10_line_opt))
 {{< tdclose >}}
 
@@ -170,7 +173,7 @@ Long lines (cont.)
 {{< tdopen >}}
 Assembly/disassembly systems
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF - 2.1MB]({{< baseurl >}}/resources/mit2_852s10_a_d_systems))
 {{< tdclose >}}
 
@@ -191,7 +194,7 @@ Assembly/disassembly systems (cont.)
 {{< tdopen >}}
 A/D loops
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 ([PDF]({{< baseurl >}}/resources/mit2_852s10_loops))
 {{< tdclose >}}
 
@@ -241,7 +244,7 @@ Guest lecture: Chuan Shi, "Efficient Buffer Design Algorithms for Production Lin
 {{< tdopen >}}
 Quality/quantity models
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/mit2_852s10_qq))
 {{< tdclose >}}
 
@@ -274,7 +277,7 @@ Guest lecture: Fernando Tubilla, "Scheduling of Setup Changes."
 {{< tdopen >}}
 Real-time control of manufacturing system
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ([PDF]({{< baseurl >}}/resources/mit2_852s10_control))
