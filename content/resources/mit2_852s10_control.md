@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9fba1582-40f5-e13f-b44d-9fc132fe86b0
 resourcetype: Document
 title: MIT2_852S10_control.pdf
 uid: d2c30252-f2f2-b429-3e03-9a3d2530b2de

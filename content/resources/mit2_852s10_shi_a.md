@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9fba1582-40f5-e13f-b44d-9fc132fe86b0
 resourcetype: Document
 title: MIT2_852S10_shi_a.pdf
 uid: e14b4d99-bb40-7e75-aedc-e33fddd3e15c

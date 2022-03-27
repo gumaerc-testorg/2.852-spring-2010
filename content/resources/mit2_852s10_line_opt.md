@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9fba1582-40f5-e13f-b44d-9fc132fe86b0
 resourcetype: Document
 title: MIT2_852S10_line_opt.pdf
 uid: 5843df20-ba98-a98f-3446-9fc47801c1e6
