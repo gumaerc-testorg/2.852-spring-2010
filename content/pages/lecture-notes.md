@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with summary
+  lecture slides for each topic.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ SLIDES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_852s10_intro))
+({{% resource_link e6e86380-0929-3cb0-0775-ab7ccde40733 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ Introduction
 Probability — Basic concepts
 {{< tdclose >}}
 {{< tdopen rowspan="4" >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/mit2_852s10_probability))
+({{% resource_link 762d5fe9-3efd-dca9-c0f9-a7bcf82b737b "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +86,7 @@ Continuous random variables
 Transfer lines — Models and bounds
 {{< tdclose >}}
 {{< tdopen rowspan="4" >}}
-([PDF - 1.9MB]({{< baseurl >}}/resources/mit2_852s10_transfer_lines))
+({{% resource_link 00f76794-6947-aca1-63c3-72381f8bdaf3 "PDF - 1.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +125,7 @@ Exponential and continuous lines
 Long lines
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-([PDF]({{< baseurl >}}/resources/mit2_852s10_long_lines))
+({{% resource_link 155e83dd-472f-cab7-095d-b53005c093bb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +155,7 @@ Long lines (cont.)
 "Deterministic" line — Long line optimization
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/mit2_852s10_line_opt))
+({{% resource_link 5843df20-ba98-a98f-3446-9fc47801c1e6 "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +176,7 @@ Long lines (cont.)
 Assembly/disassembly systems
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-([PDF - 2.1MB]({{< baseurl >}}/resources/mit2_852s10_a_d_systems))
+({{% resource_link 460acb49-eb2c-6f02-fa3a-7ba41481f026 "PDF - 2.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,7 +197,7 @@ Assembly/disassembly systems (cont.)
 A/D loops
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-([PDF]({{< baseurl >}}/resources/mit2_852s10_loops))
+({{% resource_link 2a492e1e-011a-a53f-fe87-fefef19d6461 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -227,11 +229,11 @@ Guest lecture: Chuan Shi, "Efficient Buffer Design Algorithms for Production Lin
 {{< tdopen >}}
 
 
-([PDF 1 of 3 - 4.9MB]({{< baseurl >}}/resources/mit2_852s10_shi_a)),
+({{% resource_link e14b4d99-bb40-7e75-aedc-e33fddd3e15c "PDF 1 of 3 - 4.9MB" %}}),
 
-([PDF 2 of 3 - 5.0MB]({{< baseurl >}}/resources/mit2_852s10_shi_b)),
+({{% resource_link e3dff7cf-415e-2f86-1c6b-edcd536b4349 "PDF 2 of 3 - 5.0MB" %}}),
 
-([PDF 3 of 3 - 10.5MB]({{< baseurl >}}/resources/mit2_852s10_shi_c)) (Courtesy of Chuan Shi. Used with permission.)
+({{% resource_link 7bdaafae-49e3-fafd-5f01-50740c66935d "PDF 3 of 3 - 10.5MB" %}}) (Courtesy of Chuan Shi. Used with permission.)
 
 
 {{< tdclose >}}
@@ -245,7 +247,7 @@ Guest lecture: Chuan Shi, "Efficient Buffer Design Algorithms for Production Lin
 Quality/quantity models
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-([PDF]({{< baseurl >}}/resources/mit2_852s10_qq))
+({{% resource_link d8e138c2-04db-69d6-eabe-ed485d727418 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -280,7 +282,7 @@ Real-time control of manufacturing system
 {{< tdopen rowspan="2" >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit2_852s10_control))
+({{% resource_link d2c30252-f2f2-b429-3e03-9a3d2530b2de "PDF" %}})
 
 
 {{< tdclose >}}

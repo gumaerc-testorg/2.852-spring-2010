@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course objectives, meeting
+  times, prerequisites, textbook, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -41,4 +43,4 @@ The Prentice Hall edition of this book is no longer in print. New copies can be 
 Grading
 -------
 
-Students are required to complete a term project. Details are given on the [Projects]({{< baseurl >}}/pages/projects) page. No other assignments are given or graded, although optional homework problems are suggested under [Assignments]({{< baseurl >}}/pages/assignments). Class participation is also a component of your grade.
+Students are required to complete a term project. Details are given on the {{% resource_link bf95b03a-954f-3d2f-5190-4ff012fd2d5e "Projects" %}} page. No other assignments are given or graded, although optional homework problems are suggested under {{% resource_link 2a6305eb-216d-659a-b854-25db408ebeab "Assignments" %}}. Class participation is also a component of your grade.
