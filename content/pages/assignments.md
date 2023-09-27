@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of homework problems from the course text,
+  Manufacturing Systems Engineering.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

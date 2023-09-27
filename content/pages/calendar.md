@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of course topics, the number
+  of readings associated with each session, and key dates for assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
