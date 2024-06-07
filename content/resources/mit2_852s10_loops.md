@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to loops.
 file: /courses/2-852-manufacturing-systems-analysis-spring-2010/2a492e1e011aa53ffe87fefef19d6461_MIT2_852S10_loops.pdf
+file_size: 505053
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
