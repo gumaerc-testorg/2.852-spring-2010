@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to efficient buffer design
   algorithms for production line profit maximization.
-file: /courses/2-852-manufacturing-systems-analysis-spring-2010/7bdaafae49e3fafd5f0150740c66935d_MIT2_852S10_shi_c.pdf
+file: /ol-ocw-studio-app/courses/2-852-manufacturing-systems-analysis-spring-2010/7bdaafae49e3fafd5f0150740c66935d_MIT2_852S10_shi_c.pdf
 file_size: 10963174
 file_type: application/pdf
 learning_resource_types:
