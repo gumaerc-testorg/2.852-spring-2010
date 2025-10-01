@@ -62,10 +62,10 @@ Bertsekas, Dmitri P. _Dynamic Programming: Deterministic and Stochastic Models_.
 Industrial Applications
 -----------------------
 
-Burman, Mitchell, Stanley B. Gershwin, and Curtis Suyematsu. "[Hewlett-Packard Uses Operations Research to Improve the Design of a Printer Production Line.](http://dx.doi.org/10.1287/inte.28.1.24)" _Interfaces_ 28 (January-February 1998): 24-36.
+Burman, Mitchell, Stanley B. Gershwin, and Curtis Suyematsu. "{{% resource_link "b1eda02a-3cbf-4d32-a495-467467c43c1f" "Hewlett-Packard Uses Operations Research to Improve the Design of a Printer Production Line." %}}" _Interfaces_ 28 (January-February 1998): 24-36.
 
-Patchong, Alain, Thierry Lemoine, and Gilles Kern. "[Improving Car Body Production at PSA Peugeot Citroen.](http://dx.doi.org/10.1287/inte.33.1.36.12723)" _Interfaces_ 33 (January-February 2003): 36-49.
+Patchong, Alain, Thierry Lemoine, and Gilles Kern. "{{% resource_link "2e43b2d9-f38b-4c6f-89bf-b3d26abc59c8" "Improving Car Body Production at PSA Peugeot Citroen." %}}" _Interfaces_ 33 (January-February 2003): 36-49.
 
-Alden, Jeffrey M., et al. "[General Motors Increases Its Production Throughput.](http://dx.doi.org/10.1287/inte.1050.0181)" _Interfaces_ 36 (January-February 2006): 6-25.
+Alden, Jeffrey M., et al. "{{% resource_link "d01b4906-8f42-4cfb-9dcf-72f019747547" "General Motors Increases Its Production Throughput." %}}" _Interfaces_ 36 (January-February 2006): 6-25.
 
-Li, Jingshan, Dennis E. Blumenfeld, Ningjian Huang, and Jeffrey M. Alden. "[Throughput Analysis of Production Systems: Recent Advances and Future Topics.](http://dx.doi.org/10.1080/00207540701829752)" _International Journal of Production Research_ 47 (July 15, 2009): 3823-3851.
+Li, Jingshan, Dennis E. Blumenfeld, Ningjian Huang, and Jeffrey M. Alden. "{{% resource_link "1a0f6a16-3393-44fa-8518-989da30b9375" "Throughput Analysis of Production Systems: Recent Advances and Future Topics." %}}" _International Journal of Production Research_ 47 (July 15, 2009): 3823-3851.
