@@ -38,7 +38,7 @@ Textbook
 
 Gershwin, Stanley B. _Manufacturing Systems Engineering_. Englewood Cliffs, NJ: Prentice Hall, 1993. ISBN: 9780135606087.
 
-The Prentice Hall edition of this book is no longer in print. New copies can be obtained from the author. Please see the [Manufacturing Systems Engineering website](http://web.mit.edu/manuf-sys/www/gershwin.book.html) for details.
+The Prentice Hall edition of this book is no longer in print. New copies can be obtained from the author. Please see the {{% resource_link "5d7b28a8-60f2-4a7e-a88f-1f409b85afbb" "Manufacturing Systems Engineering website" %}} for details.
 
 Grading
 -------
